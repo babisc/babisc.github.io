@@ -27,7 +27,7 @@ Lambdas, S3, IAM
 Git, Docker, Postman, Selinium, Jira, Scrum
 ```
 
-🎯 My work quote 
+🚦 My work quote 
 ```markdown
 **Testing** is NOT a waste of time but an investment in time!
 ```
