@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Hi, I'm Babis
+### and I'm a java developer.
 
-You can use the [editor on GitHub](https://github.com/babisc/babisc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+If you want to see my contributions in the community click [here](https://github.com/babisc). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+Well-organised person, problem solver, independent employee with hight attention to detail. 
+Fan of cycling, outdoor activities and cooking. 
+Love working on ambitious projects with positive people.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills & Experience
+The main area of my expiriense is in back end development, microservices and aws services. 
+If I had to be more specific here is some of my core tech stack.
 
 ```markdown
-Syntax highlighted code block
+# Backend
+Java, Spring, Quarkus
 
-# Header 1
-## Header 2
-### Header 3
+# Databases
+MySQL, PostgreSQL, MongoDB
 
-- Bulleted
-- List
+# Amazon
+Lambdas, S3, IAM
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# More
+Git, Docker, Postman, Selinium, Jira, Scrum
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+My believe:
+```markdown
+**Testing** is NOT a waste of time but an investment of time!
+```
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/babisc/babisc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email me at: babis@c.com or find me on [LinkedIn]([https://docs.github.com/categories/github-pages-basics/](https://www.linkedin.com/)).
+Feel free to message me! Always happy to hear from you.
