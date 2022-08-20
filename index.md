@@ -1,4 +1,4 @@
-# Hi, I'm Babis
+# I'm Babis
 ### and I'm a java developer.
 
 If you want to see my contributions in the community click [here](https://github.com/babisc). 
