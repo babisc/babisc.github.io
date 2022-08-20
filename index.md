@@ -11,7 +11,7 @@ Love working on challenging projects with positive people.
 
 ### Skills & Experience
 The main area of my expertise is back end development, microservices and aws services. 
-Some of my core tech stack.
+Some of my core tech stack:
 
 ```markdown
 # Backend
